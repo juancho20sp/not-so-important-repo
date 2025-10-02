@@ -2,12 +2,15 @@
 
 Vas a construir una **arquitectura de tres capas**:
 
-1. **Frontend (FE)**  
+1. **Frontend (FE) (se recomienda trabajar todo sobre index.html para evitar problemas con las URLs en el FE)**  
 2. **Backend (BE)**  
 3. **API externa (pokeapi)**  
 
 ⚠️ Importante:  
 Solo el **backend** puede comunicarse con la API externa. El frontend no tiene permiso para hacerlo directamente.  
+
+# Bosquejo de la arquitectura
+<img width="1011" height="303" alt="image" src="https://github.com/user-attachments/assets/18450165-2000-4eb3-ab87-ff9cec1e30c7" />
 
 ---
 
