@@ -62,7 +62,7 @@ Solo el **backend** puede comunicarse con la API externa. El frontend no tiene p
 
 3. Desde el **frontend** no es necesario un formulario.  
    - Puedes resolverlo con un **botón “login”** que, al hacer clic, envíe automáticamente las credenciales al endpoint.  
-   - Si la autenticación es exitosa, el token recibido debe guardarse en **localStorage** con la llave:  
+   - Si la autenticación es exitosa, el token recibido debe guardarse en **localStorage** para usarse más adelante al momento de comunicarse con el BE, el nombre de la llave en el localStorage debe ser:  
 
      ```
      sessionToken
