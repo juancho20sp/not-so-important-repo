@@ -94,7 +94,7 @@ fetch('/api/protected-route', {
 })
 ```
 
-## 🐱‍👤 Endpoint protegido: `/api/pokemonDetails`
+## 🐱‍👤 Endpoint protegido: `/api/v1/pokemonDetails`
 
 1. Este endpoint solo debe ser accesible si hay un **token JWT válido**.  
 2. Recibe un **body** con la siguiente estructura:  
