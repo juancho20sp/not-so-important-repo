@@ -128,8 +128,7 @@ fetch('/api/protected-route', {
   "species": "",
   "weight": "",
   "img_url": ""
-}
-  ```
+}```
   - Se le debe presentar al usuario un mensaje que diga: `Ups! Pokémon no encontrado`
 
 
