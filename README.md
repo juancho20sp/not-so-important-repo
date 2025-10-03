@@ -149,7 +149,7 @@ fetch('/api/protected-route', {
 - Si el frontend se comunica directamente con **pokeAPI**, la entrega será **descalificada** (no se califica).  
 - Penalizaciones:  
   - Subir la carpeta `node_modules` al repositorio → **-1.0** unidad en la nota final.
-  - Si la entrega es extemporánea, es decir, después de las **9:30am del 03 de octubre de 2025** -> **-1.0** unidades en la nota final.
+  - Si la entrega es extemporánea, es decir, después de las **9:30am del 03 de octubre de 2025** -> **-1.0** unidad en la nota final.
 
 # 📊 Rúbrica de evaluación
 
