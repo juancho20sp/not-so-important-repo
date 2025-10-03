@@ -138,6 +138,7 @@ fetch('/api/protected-route', {
 
 # 📌 Reglas del examen
 
+- El examen inicia a las 7:00am del 03 de octubre de 2025 y termina a las 9:30am del 03 de octubre de 2025.
 - El examen debe realizarse en **parejas**. Si se entrega en pareja, la calificación será la misma para ambos estudiantes.  
 - El **Backend (BE)** y el **Frontend (FE)** deben estar **desplegados y funcionando públicamente**. No se aceptarán entregas privadas.  
 - Toda entrega debe estar **marcada correctamente**:  
@@ -148,6 +149,7 @@ fetch('/api/protected-route', {
 - Si el frontend se comunica directamente con **pokeAPI**, la entrega será **descalificada** (no se califica).  
 - Penalizaciones:  
   - Subir la carpeta `node_modules` al repositorio → **-1.0** unidad en la nota final.
+  - Si la entrega es extemporánea, es decir, después de las **9:30am del 03 de octubre de 2025** -> **-1.0** unidades en la nota final.
 
 # 📊 Rúbrica de evaluación
 
